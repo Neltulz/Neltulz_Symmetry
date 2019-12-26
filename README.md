@@ -1,2 +1,4 @@
 # Neltulz_Symmetry
-Blender addon that allows you to slice, cut, and mirror a mesh object easily.
+Slice, cut, or mirror a mesh object easily.
+
+[View Complete README File](https://www.logichaos.com/neltulz_blender_addons/neltulz_symmetry/README_Neltulz_Symmetry)
